@@ -7,7 +7,10 @@
 
 ## <b>Projects</b>
 [MusicX](https://github.com/Dayhawk007/musicx)
+<br>
 [Magurn](https://github.com/Dayhawk007/magurn)
+<br>
 [Timii HR Management System](https://github.com/Dayhawk007/HR-Management)
+<br>
 [Picot](https://github.com/Dayhawk007/Picot)
 
